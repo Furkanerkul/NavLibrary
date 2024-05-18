@@ -5,7 +5,7 @@
 ### Projeyi nasıl kullanacağım?
 
 Eğer ki bilgisayarınızda git yüklüyse şu işlemleri sırasıyla uygulayınız.**
-1) VSCode veya herhangi editör fark etmeksizin boş bir klasör oluşturun ve bu klasör içerisine girip hedefini kopyalayın.
+1) VSCode veya herhangi editör fark etmeksizin boş bir klasör oluşturun ve bu klasör içerisine girip hedefini kopyalayın. Ardından CMD'yi açınız.
 2) `cd klasörAdı`
 3) `git init`
 4) `git clone projeLink`
